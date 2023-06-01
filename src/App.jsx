@@ -1,5 +1,7 @@
+import Gallery from './components/gallery/Gallery';
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	return <Gallery />;
 };
 
 export default App;
